@@ -35,5 +35,5 @@ a:hover {
 }
 
 .active {
-    border:2px;
+    border: 2px solid darkgrey;
 }
